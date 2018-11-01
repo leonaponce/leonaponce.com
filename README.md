@@ -12,3 +12,5 @@ Deliverables<br><br>
 
 5. Resume / past work page. <br><br>
 
+6. Links to social media, LinkedIN, etc.
+
