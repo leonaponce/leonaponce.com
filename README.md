@@ -16,3 +16,5 @@ Deliverables<br><br>
 
 7. Create interactive functionality when user clicks on portfolio project<br><br>
 
+8. AI/ ML application toolbox
+
