@@ -18,3 +18,5 @@ Deliverables<br><br>
 
 8. AI/ ML application toolbox
 
+9. Links to aicurious.com Podcast
+
