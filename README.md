@@ -12,11 +12,13 @@ Deliverables<br><br>
 
 5. Resume / past work page. <br><br>
 
-6. Links to social media, Youtube, LinkedIN, etc. <br><br>
+6. Links to social media, Youtube, LinkedIN, Twitter <br><br>
 
-7. Create interactive functionality when user clicks on portfolio project<br><br>
+7. Create interactive functionality when user clicks on portfolio projec, possibly with scroller functionality<br><br>
 
 8. AI/ ML application toolbox
 
 9. Links to aicurious.com Podcast
+
+10. Style with Bootstrap
 
